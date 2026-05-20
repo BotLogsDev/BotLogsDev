@@ -30,7 +30,7 @@ At **BotLogs**, I lead a team focused on turning crash logs into actionable fixe
 | Project | Description |
 |---------|-------------|
 | [BotLogs SDK](https://github.com/BotLogsTeam/sdk) | One‑line integration that captures, analyzes, and fixes Discord bot errors with AI. |
-| [BotLogs Dashboard](https://github.com/BotLogsTeam/example) | Real‑time monitoring dashboard for error tracking and AI confidence scores. |
+| [BotLogs Example](https://github.com/BotLogsTeam/example) | Real‑time monitoring dashboard for error tracking and AI confidence scores. |
 
 
 ---
